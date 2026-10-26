@@ -1,0 +1,41 @@
+var hierarchy =
+[
+    [ "img2num::ImageToSvgConfig::BilateralFilterConfig", "structimg2num_1_1ImageToSvgConfig_1_1BilateralFilterConfig.html", null ],
+    [ "gpu::BindEntry", "structgpu_1_1BindEntry.html", null ],
+    [ "gpu::Buffer< T >", "classgpu_1_1Buffer.html", null ],
+    [ "CentroidParams", "structCentroidParams.html", null ],
+    [ "ClusterAccumulator", "structClusterAccumulator.html", null ],
+    [ "ContoursResult", "structContoursResult.html", [
+      [ "ColoredContours", "structColoredContours.html", null ]
+    ] ],
+    [ "contours::Coord", "structcontours_1_1Coord.html", null ],
+    [ "FilterParams", "structFilterParams.html", null ],
+    [ "GPU", "classGPU.html", null ],
+    [ "Graph", "classGraph.html", null ],
+    [ "ImageLib::Image< PixelT >", "classImageLib_1_1Image.html", null ],
+    [ "img2num::ImageToSvgConfig", "structimg2num_1_1ImageToSvgConfig.html", null ],
+    [ "img2num::ImageToSvgConfig::KMeansConfig", "structimg2num_1_1ImageToSvgConfig_1_1KMeansConfig.html", null ],
+    [ "Node", "classNode.html", null ],
+    [ "NodeIdLess", "structNodeIdLess.html", null ],
+    [ "Params", "structParams.html", null ],
+    [ "ImageLib::Pixel< NumberT >", "structImageLib_1_1Pixel.html", [
+      [ "ImageLib::RGBPixel< uint8_t >", "structImageLib_1_1RGBPixel.html", null ],
+      [ "ImageLib::LABPixel< NumberT >", "structImageLib_1_1LABPixel.html", [
+        [ "ImageLib::LABAPixel< NumberT >", "structImageLib_1_1LABAPixel.html", null ]
+      ] ],
+      [ "ImageLib::RGBPixel< NumberT >", "structImageLib_1_1RGBPixel.html", [
+        [ "ImageLib::RGBAPixel< uint8_t >", "structImageLib_1_1RGBAPixel.html", null ],
+        [ "ImageLib::RGBAPixel< NumberT >", "structImageLib_1_1RGBAPixel.html", null ]
+      ] ]
+    ] ],
+    [ "ImageLib::Pixel< uint8_t >", "structImageLib_1_1Pixel.html", null ],
+    [ "ImageLib::PixelConverter< ConverterT >", "structImageLib_1_1PixelConverter.html", null ],
+    [ "Point", "structPoint.html", null ],
+    [ "contours::PointID", "structcontours_1_1PointID.html", null ],
+    [ "QuadBezier", "structQuadBezier.html", null ],
+    [ "Rect", "structRect.html", null ],
+    [ "RGBXY", "structRGBXY.html", null ],
+    [ "SavitzkyGolay", "classSavitzkyGolay.html", null ],
+    [ "gpu::Texture", "classgpu_1_1Texture.html", null ],
+    [ "XY", "structXY.html", null ]
+];
